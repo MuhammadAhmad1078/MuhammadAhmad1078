@@ -54,5 +54,5 @@ I am a specialized **Full-Stack AI Engineer**. My passion lies in the intersecti
 </p>
 
 <p align="center"> 
-  ⭐️ From [Your Name]
+  ⭐️ From [Muhammad Ahmad]
 </p>
